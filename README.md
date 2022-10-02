@@ -25,11 +25,7 @@ I'm a electro student
 <p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=naufal-rizky&show_icons=true&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="naufal-rizky stats card" /></p>
     
-<p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=naufal-rizky" alt="naufal-rizky" />
-</a>
-</p>
+    
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naufal-rizky&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="naufal-rizky stats card" /></p>
 
