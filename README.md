@@ -1,5 +1,3 @@
-- Hello my name is Naufal Rizky 
-
 Github Stats
 
 [![Naufal's GitHub stats](https://github-readme-stats.vercel.app/api?username=naufal-rizky&show_icons=true&theme=radical)](https://github.com/naufal-rizky/github-readme-stats)
