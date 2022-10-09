@@ -22,14 +22,3 @@ I'm a electro student
 - 😄 Pronouns...
 
 - ⚡️ Fun fact...
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=naufal-rizky&show_icons=true&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="naufal-rizky stats card" /></p>
-    
-    
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naufal-rizky&theme=radical&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="naufal-rizky stats card" /></p>
-
-<!---
-naufal-rizky/naufal-rizky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
